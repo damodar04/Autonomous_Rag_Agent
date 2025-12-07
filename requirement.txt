@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-openai
+langchain-community
+langchain-huggingface
+duckdb
+faiss-cpu
+pandas
+plotly
+python-dotenv
+numpy
+scikit-learn
+PyPDF2
